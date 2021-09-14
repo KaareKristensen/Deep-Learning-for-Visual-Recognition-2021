@@ -2,6 +2,9 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
+# Content folder
+content/
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
